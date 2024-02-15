@@ -25,4 +25,6 @@
 >If you want to edit any of the settings for the extension, edit the [background.js](https://github.com/KadeWalsh/youtubeTimer/blob/master/background.js) file and save your changes
 >To reload the extension, go back to 'Manage Extensions' and there should be a small icon to the left of the toggle button
 >![reload_extension](https://github.com/KadeWalsh/youtubeTimer/assets/107522159/b4dcca70-c11c-4910-a9d9-1f777c78d803)
-
+>
+>Make any changes to [popup.html](https://github.com/KadeWalsh/youtubeTimer/blob/master/popup.html) that you would like
+>Changes to [popup.html](https://github.com/KadeWalsh/youtubeTimer/blob/master/popup.html) DO NOT require the extension to be reloaded
