@@ -1,0 +1,23 @@
+{
+  "manifest_version": 3,
+  "name": "YouTube Time Tracker",
+  "version": "1.0",
+  "description": "Tracks time spent on YouTube and notifies after 30 minutes.",
+  "permissions": ["tabs"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icon.png",
+      "48": "icon.png",
+      "128": "icon.png"
+    }
+  },
+  "icons": {
+    "16": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  }
+}
